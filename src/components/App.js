@@ -20,6 +20,7 @@ class App extends React.Component {
                 <button
                 onClick={() => this.props.changeAuth(true)}
                     >Sign In</button>
+                    
             )
         }
     }
